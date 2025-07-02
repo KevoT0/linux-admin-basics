@@ -37,7 +37,7 @@ By completing this module, you will be able to:
 - Created, listed, copied, renamed, and deleted files and folders
 
 <p align="center">
-<img src="https://i.imgur.com/36.png" height="80%" width="80%" alt="Linux Directory Navigation and Creation"/>
+<img src="https://imgur.com/K5L57JO" height="80%" width="80%" alt="Linux Directory Navigation and Creation"/>
 </p>
 
 ---
